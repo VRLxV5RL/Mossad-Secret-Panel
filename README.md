@@ -1,4 +1,6 @@
 # Mossad-Secret-Panel
 (Wip)
 dont take this seriously
-anti cheat soon + new ui maybe
++ 0.2 domain kill all (WIP)
++ Mahito Inf Ult
++ Great serpent bring all
