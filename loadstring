@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/VRLxV5RL/Mossad-Secret-Panel/refs/heads/main/Mossad%20Secret%20Panel%20jjs"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VRLxV5RL/Mossad-Secret-Panel/refs/heads/main/Mossad%20Secret%20Panel%20JJS"))()
