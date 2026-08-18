@@ -7,3 +7,4 @@ dont take this seriously
 + Anti-Cheat Bypass
 + Kurourushi Bring
 + Todo bring
++ hakari inf ult
